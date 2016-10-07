@@ -1,0 +1,19 @@
+{
+  "name": "react-typescript",
+  "version": "1.0.0",
+  "description": "Test av React och TypeScript i VS Code",
+  "author": "Filip Sjögren",
+  "license": "ISC",
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "devDependencies": {
+    "@types/react": "^0.14.38",
+    "@types/react-dom": "^0.14.17",
+    "react": "15.3.2",
+    "react-dom": "15.3.2",
+    "ts-loader": "0.8.2",
+    "typescript": "2.0.3",
+    "webpack": "1.13.1"
+  }
+}
